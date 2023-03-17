@@ -22,7 +22,7 @@ export const Buy = () => {
       </figure>
       <div className="p-8"></div>
       <div>
-        <Button className="ms-5" disabled={isDisable}>
+        <Button className="" disabled={isDisable}>
           cheak out
         </Button>
         {/* <Button className="ms-2">cheak in</Button> */}
